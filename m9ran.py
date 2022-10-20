@@ -12,8 +12,7 @@ import sys
 import threading
 import random
 import re
-PYTHONIOENCODING=utf-8 python3 -c 'from text_art import giraffe as s; print(s)'
-
+coding=utf-8
 #les parametere
 url=''
 host=''
