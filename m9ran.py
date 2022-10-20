@@ -8,7 +8,6 @@
 #
 # author :  Adam S , version 1.0
 # ----------------------------------------------------------------------------------------------
-
 import urllib2
 import sys
 import threading
@@ -176,6 +175,4 @@ else:
 			t = HTTPThread()
 			t.start()
 		t = MonitorThread()
-		t.start()	
-
-
+		t.start()
