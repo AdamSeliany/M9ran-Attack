@@ -80,12 +80,11 @@ print("""\
                             ,"     ## /
                           ,"   ##    /
 
-
-                    """)
-	print '---------------------------------------------------'
-	print 'USAGE: python2 m9ran.py <url>'
-	print 'you can add "safe" after url, to autoshut after dos :3AS'
-	print '---------------------------------------------------'
+""")
+print ('---------------------------------------------------')
+print ('USAGE: python2 m9ran.py <url>')
+print ('you can add "safe" after url, to autoshut after dos :3AS')
+print ('---------------------------------------------------')
 
 	
 #hna les request HTTP
