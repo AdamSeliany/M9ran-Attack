@@ -7,12 +7,13 @@
 #
 # author :  Adam S , version 1.0
 # ----------------------------------------------------------------------------------------------
+# -*- coding: utf-8 -*-
 import urllib2
 import sys
 import threading
 import random
 import re
-coding=utf-8
+
 #les parametere
 url=''
 host=''
